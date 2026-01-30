@@ -4,7 +4,7 @@ const projects = [
   {
     name: 'Chief of Staff Kit',
     desc: 'Pre-configured Clawdbot workspace — daily briefings, email triage, follow-up tracking. Three personality packs. Five minutes to set up.',
-    url: 'https://chief-of-staff-site.vercel.app',
+    url: 'https://kit.satbot.dev',
     tag: 'SHIPPED',
     tagColor: '#22c55e',
   },
